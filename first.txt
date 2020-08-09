@@ -3,3 +3,4 @@ Gitの練習をしています。
 コマンドを練習します。
 ・git rm
 ・git status
+・git diff
